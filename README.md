@@ -34,4 +34,6 @@ GOOGLE_SPREADSHEET_RANGE="you can it find at the bottom left of the spreadsheet,
 
 ## Addition Resources
 
-[How to securely use Google API service account credentials in a public repo](https://dev.to/wilsonparson/how-to-securely-use-google-apis-service-account-credentials-in-a-public-repo-4k65)
+- [How to securely use Google API service account credentials in a public repo](https://dev.to/wilsonparson/how-to-securely-use-google-apis-service-account-credentials-in-a-public-repo-4k65)
+- [Node.js version manager for Windows](https://github.com/coreybutler/nvm-windows)
+
